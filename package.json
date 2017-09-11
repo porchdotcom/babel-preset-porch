@@ -1,6 +1,6 @@
 {
   "name": "@porch/babel-preset-porch",
-  "version": "2.3.13",
+  "version": "2.3.14",
   "description": "Porch's Babel preset.",
   "main": "index.js",
   "scripts": {
