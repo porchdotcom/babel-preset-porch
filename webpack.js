@@ -17,7 +17,6 @@ const preset = {
 
 if (development) {
     preset.plugins.push(
-        'react-hot-loader/babel',
         'transform-react-jsx-source',
         'transform-react-jsx-self'
     );
